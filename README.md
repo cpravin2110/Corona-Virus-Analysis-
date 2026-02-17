@@ -1,9 +1,7 @@
-📄 [View Full Project Report](https://github.com/cpravin2110/Corona-Virus-Analysis-/blob/4e8928693c5456af2fec3f4f3eed455f573addbb/Corona%20Virus%20Analysis.pdf)
+![Dashboard Preview](https://github.com/cpravin2110/Corona-Virus-Analysis-/blob/394af0fd3a9f991b22f9d2f23bbd5e2db52c4266/Template%20img%20corona%20analysis.png)
 
 
 # 🦠 Corona Virus Analysis using SQL
-
-
 
 ## 📌 Project Overview
 
@@ -127,11 +125,12 @@ This project demonstrates strong SQL skills including aggregation, grouping, ran
 
 ## 📌 Conclusion
 
-This project provides meaningful insights into the global spread and impact of COVID-19 using SQL analysis.
+✔ This project provides meaningful insights into the global spread and impact of COVID-19 using SQL analysis.
 
-With over 16.9 crore confirmed cases, 11.3 crore recoveries, and 36.4 lakh deaths, the analysis highlights the severity of the pandemic and identifies the most affected countries and peak periods.
+✔ With over 16.9 crore confirmed cases, 11.3 crore recoveries, and 36.4 lakh deaths, the analysis highlights the severity of the pandemic and identifies the most affected countries and peak 
+  periods.
 
-The project demonstrates how SQL can be used to analyze real-world global health data and extract valuable insights for decision-making and understanding large-scale events.
+✔ The project demonstrates how SQL can be used to analyze real-world global health data and extract valuable insights for decision-making and understanding large-scale events.
 
 ---
 
