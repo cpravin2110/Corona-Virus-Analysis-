@@ -134,6 +134,13 @@ This project demonstrates strong SQL skills including aggregation, grouping, ran
 
 ---
 
+### 📄 Project Report
+
+**➤ View Full Project Report (PDF):**[](https://github.com/cpravin2110/Corona-Virus-Analysis-/blob/a180448caa437171e1f3d6d9e9274645da7b633b/Corona%20Virus%20Analysis.pdf)
+
+
+---
+
 ### 🤝 Connect
 
 If you like this project or want to collaborate, feel free to connect!
