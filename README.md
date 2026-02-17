@@ -1,9 +1,9 @@
-📄 [View Full Project Report](Corona Virus Analysis.pdf)
+📄 [View Full Project Report](https://github.com/cpravin2110/Corona-Virus-Analysis-/blob/4e8928693c5456af2fec3f4f3eed455f573addbb/Corona%20Virus%20Analysis.pdf)
 
 
 # 🦠 Corona Virus Analysis using SQL
 
----
+
 
 ## 📌 Project Overview
 
