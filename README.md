@@ -1,3 +1,6 @@
+# 🦠 Corona Virus Analysis using SQL
+
+
 ![Dashboard Preview](https://github.com/cpravin2110/Corona-Virus-Analysis-/blob/394af0fd3a9f991b22f9d2f23bbd5e2db52c4266/Template%20img%20corona%20analysis.png)
 
 
@@ -136,7 +139,7 @@ This project demonstrates strong SQL skills including aggregation, grouping, ran
 
 ### 📄 Project Report
 
-**[View Full Project Report](https://github.com/cpravin2110/Corona-Virus-Analysis-/blob/a180448caa437171e1f3d6d9e9274645da7b633b/Corona%20Virus%20Analysis.pdf)**
+**[View SQL QUERIES AND OUTCOMES](https://github.com/cpravin2110/Corona-Virus-Analysis-/blob/a180448caa437171e1f3d6d9e9274645da7b633b/Corona%20Virus%20Analysis.pdf)**
 
 
 ---
