@@ -4,8 +4,6 @@
 ![Dashboard Preview](https://github.com/cpravin2110/Corona-Virus-Analysis-/blob/394af0fd3a9f991b22f9d2f23bbd5e2db52c4266/Template%20img%20corona%20analysis.png)
 
 
-# 🦠 Corona Virus Analysis using SQL
-
 ## 📌 Project Overview
 
 This project analyzes global COVID-19 data using SQL to understand the spread, recovery trends, and mortality impact of the coronavirus pandemic across different countries and time periods.
